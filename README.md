@@ -1,8 +1,4 @@
-Yes bro. Here is the **complete, clean, copy-paste-ready `README.md`** for your actual repository. It matches the 8 PDFs you uploaded to GitHub and does **not** claim that `.m` files are available.
 
-Just **replace everything currently inside `README.md` with this entire block**.
-
-````markdown
 # OFDM-Based Wireless Communication System
 
 A MATLAB-based simulation of an **Orthogonal Frequency Division Multiplexing (OFDM) wireless communication system** incorporating **16-QAM, QPSK, AWGN noise, multipath fading, cyclic prefix, channel equalization, and BER performance analysis**.
