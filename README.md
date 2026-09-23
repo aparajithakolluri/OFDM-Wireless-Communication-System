@@ -27,7 +27,7 @@ The project was developed and simulated using **MATLAB Online**.
 
 ## 🛰️ System Architecture
 
-```text
+
                          TRANSMITTER
                               │
                               ▼
@@ -97,10 +97,10 @@ The first stage implements a basic **16-QAM communication system**.
 
 The transmitted symbols were successfully recovered without errors in the simulated ideal channel.
 
-```text
+
 Number of bit errors = 0
 BER = 0
-```
+
 
 ### Documentation
 
@@ -162,9 +162,8 @@ The system is evaluated over different SNR values.
 
 ### SNR Range
 
-```text
+
 0 dB → 5 dB → 10 dB → 15 dB → 20 dB → 25 dB
-```
 
 ### BER Results
 
