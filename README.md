@@ -1,3 +1,8 @@
+Yes bro. Here is the **complete, clean, copy-paste-ready `README.md`** for your actual repository. It matches the 8 PDFs you uploaded to GitHub and does **not** claim that `.m` files are available.
+
+Just **replace everything currently inside `README.md` with this entire block**.
+
+````markdown
 # OFDM-Based Wireless Communication System
 
 A MATLAB-based simulation of an **Orthogonal Frequency Division Multiplexing (OFDM) wireless communication system** incorporating **16-QAM, QPSK, AWGN noise, multipath fading, cyclic prefix, channel equalization, and BER performance analysis**.
@@ -27,7 +32,7 @@ The project was developed and simulated using **MATLAB Online**.
 
 ## 🛰️ System Architecture
 
-
+```text
                          TRANSMITTER
                               │
                               ▼
@@ -97,10 +102,10 @@ The first stage implements a basic **16-QAM communication system**.
 
 The transmitted symbols were successfully recovered without errors in the simulated ideal channel.
 
-
+```text
 Number of bit errors = 0
 BER = 0
-
+```
 
 ### Documentation
 
@@ -162,8 +167,9 @@ The system is evaluated over different SNR values.
 
 ### SNR Range
 
-
+```text
 0 dB → 5 dB → 10 dB → 15 dB → 20 dB → 25 dB
+```
 
 ### BER Results
 
@@ -493,7 +499,7 @@ The system can be further extended with:
 
 # 👩‍💻 Author
 
-## K. V. S. L.J. Aparajitha
+## K. V. S. L. Aparajitha
 
 **Electronics and Communication Engineering**
 **B.Tech — 2027**
@@ -503,6 +509,8 @@ The system can be further extended with:
 * Wireless Communication
 * RF Engineering
 * Digital Communication
+* Signal Processing
+* Embedded Systems
 * MATLAB
 
 ---
@@ -518,4 +526,4 @@ The eight stage-wise PDF documents provide the **MATLAB implementation, simulati
 ---
 
 ⭐ **Explore the stage-wise PDFs above to see the complete development and simulation results.**
-
+QAM project**. Keep it as a separate project; this OFDM project is the more advanced continuation of the communication-system work.
