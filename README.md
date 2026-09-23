@@ -495,7 +495,7 @@ The system can be further extended with:
 
 # 👩‍💻 Author
 
-## K. V. S. L. Aparajitha
+## K. V. S. L.J. Aparajitha
 
 **Electronics and Communication Engineering**
 **B.Tech — 2027**
@@ -505,8 +505,6 @@ The system can be further extended with:
 * Wireless Communication
 * RF Engineering
 * Digital Communication
-* Signal Processing
-* Embedded Systems
 * MATLAB
 
 ---
